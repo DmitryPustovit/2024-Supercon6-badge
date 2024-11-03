@@ -1,0 +1,3 @@
+[submodule "libraries/MicroPython-IR-Transceiver-SAO"]
+	path = libraries/MicroPython-IR-Transceiver-SAO
+	url = https://github.com/DmitryPustovit/MicroPython-IR-Transceiver-SAO
