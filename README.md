@@ -2,6 +2,14 @@
 
 Play a laser tag like game with the IR TV Remote SAO! 
 
+# Other Modules Needed
+- Supercon 8 TouchWheelSAO SAO
+- Supercon 8 Petal SAO
+
+# Features
+- Using the TouchWheelSAO SAO, you can fire!
+- Using the Petal SAO, your health will be displayed.
+
 # Install 
 - Install VS Code
 - Install Rapsberry Pi Pico Extension
@@ -11,6 +19,4 @@ Play a laser tag like game with the IR TV Remote SAO!
     - `main.py`
 - Restart your badge!
 
-# Features
-- Using the Touch Module, you can fire!
-- Using the Petal Module, your health will be displayed.  
+
